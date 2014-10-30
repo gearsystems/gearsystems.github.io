@@ -1175,7 +1175,7 @@ footer .copyright{
 		background-size: cover;
 	}
 	.android .floating-phone{
-		background: url(../img/Nexus-5.png) no-repeat;
+		/*background: url(../img/Nexus-5.png) no-repeat;*/
 		background-size: cover;
 	}
 	header{
@@ -1189,7 +1189,7 @@ footer .copyright{
 		background-size: cover;
 	}
 	.android .floating-phone{
-		background: url(../img/Nexus-5@2x.png) no-repeat;
+		/*background: url(../img/Nexus-5@2x.png) no-repeat;*/
 		background-size: cover;
 	}
 	header{
